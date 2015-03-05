@@ -15,9 +15,9 @@
   </modules>
 
   <scm>
-    <connection>scm:git:git@github.com:biemond/soa_tools.git</connection>
-    <developerConnection>scm:git:git@github.com:biemond/soa_tools.git</developerConnection>
-    <url>https://github.com/biemond/soa_tools/tree/master/maven_osb_ps6</url>
+    <connection>scm:git:git@github.com:vyudi/osb_maven.git</connection>
+    <developerConnection>scm:git:git@github.com:vyudi/osb_maven.git</developerConnection>
+    <url>https://github.com/vyudi/osb_maven</url>
     <tag>osb.0.2.0</tag>
   </scm> 
 
